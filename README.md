@@ -24,7 +24,7 @@ Cat lover / Photographer / OSU Security Club member
 ### The website uses artificial intelligence data analysis to help patients match their symptoms.
 [Artificial Intelligence Doctor](https://github.com/Quella-Cold/CS361–Implementation-1-)
 
-### An online ordering system for pizza that allows users to search and select ingredients to get their own exclusive order
+### An online ordering system for pizza that allows users to search and select ingredients to get their own exclusive order.
 [Online Ordering System](https://github.com/QuellaCold/Pizza/tree/main/asm2)
 
 ### Infinity scheduler (current)
