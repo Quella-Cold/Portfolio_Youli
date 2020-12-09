@@ -1,8 +1,10 @@
 ## About me
 
 My name is Youli Zhao, a senior student at oregon state university.
+
 Major in computer science and minor in mathematics. Expected graduate in 2021 June.
-Cat lover, Photographer. OSU Security Club member.
+
+Cat lover / Photographer / OSU Security Club member.
 
 
 [My Github](https://github.com/Quella-Cold)
@@ -19,7 +21,6 @@ Cat lover, Photographer. OSU Security Club member.
 ### The website uses artificial intelligence data analysis to help patients match their symptoms.
 [Artificial Intelligence Doctor](https://github.com/Quella-Cold/CS361–Implementation-1-)
 
-### An online ordering system for pizza that allows users to search and select ingredients to get their own
-exclusive order
+### An online ordering system for pizza that allows users to search and select ingredients to get their own exclusive order
 [Online Ordering System](https://github.com/QuellaCold/Pizza/tree/main/asm2)
 
