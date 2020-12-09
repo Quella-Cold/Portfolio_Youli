@@ -1,10 +1,9 @@
 ## About me
 
-My name is Youli Zhao, a senior student at oregon state university.
-
-Major in computer science and minor in mathematics. Expected graduate in 2021 June.
-
-Cat lover / Photographer / OSU Security Club member.
+My name is Youli Zhao, a senior student at oregon state university.<br/>
+Major in computer science and minor in mathematics. Expected graduate in 2021 June.<br/>
+Provincial Third Prize in the National Mathematical Olympiad Competition in China (2016). <br/>
+Cat lover / Photographer / OSU Security Club member
 
 
 [My Github](https://github.com/Quella-Cold)
