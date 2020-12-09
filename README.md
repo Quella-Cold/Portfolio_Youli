@@ -11,7 +11,7 @@ Cat lover / Photographer / OSU Security Club member.
 
 [My Linkedin](www.linkedin.com/in/youli-zhao-ba1710201)
 
-[My_Gitlab] (https://gitlab.com/Quella-Cold)
+[My Gitlab](https://gitlab.com/Quella-Cold)
 
 
 ## Projects
