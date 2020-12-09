@@ -3,6 +3,7 @@
 My name is Youli Zhao, a senior student at oregon state university.<br/>
 Major in computer science and minor in mathematics. Expected graduate in 2021 June.<br/>
 Provincial Third Prize in the National Mathematical Olympiad Competition in China (2016). <br/>
+Superior Academic Achievement (2020 Spring).<br/>
 Cat lover / Photographer / OSU Security Club member
 
 
@@ -10,7 +11,10 @@ Cat lover / Photographer / OSU Security Club member
 
 [My Linkedin](www.linkedin.com/in/youli-zhao-ba1710201)
 
-[My Gitlab](https://gitlab.com/Quella-Cold)
+[My GitLab](https://gitlab.com/Quella-Cold)
+
+## Skills
+2D Graphics | 3D Modeling | Websites | Test Code | Algorithms | Applications & Game Development 
 
 
 ## Projects
