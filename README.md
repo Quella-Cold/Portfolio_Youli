@@ -29,4 +29,4 @@ Cat lover / Photographer / OSU Security Club member
 [Online Ordering System](https://github.com/QuellaCold/Pizza/tree/main/asm2)
 
 ### An artificial intelligence butler that facilitates time management.(Finished Version Coming Soon...)
-[Infinity scheduler](http://infinityscheduler.com)
+[Infinity Scheduler](http://infinityscheduler.com)
