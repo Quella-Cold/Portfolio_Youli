@@ -23,7 +23,7 @@ Cat lover / Photographer / OSU Security Club member
 [Food Navigation](https://github.com/Quella-Cold/cs492-Final-Project/settings)
 
 ### The website uses artificial intelligence data analysis to help patients match their symptoms.
-[Artificial Intelligence Doctor](https://github.com/Quella-Cold/CS361–Implementation-1-)
+Artificial Intelligence Doctor
 
 ### An online ordering system for pizza that allows users to search and select ingredients to get their own exclusive order.
 [Online Ordering System](https://github.com/Quella-Cold/Pizza)
