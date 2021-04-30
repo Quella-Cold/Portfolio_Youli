@@ -26,7 +26,7 @@ Cat lover / Photographer / OSU Security Club member
 [Artificial Intelligence Doctor](https://github.com/Quella-Cold/CS361–Implementation-1-)
 
 ### An online ordering system for pizza that allows users to search and select ingredients to get their own exclusive order.
-[Online Ordering System](https://github.com/QuellaCold/Pizza/tree/main/asm2)
+[Online Ordering System](https://github.com/Quella-Cold/Pizza)
 
 ### An artificial intelligence butler that facilitates time management.(Finished Version Coming Soon...)
 [Infinity Scheduler](http://infinityscheduler.com)
