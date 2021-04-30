@@ -1,10 +1,10 @@
 ## About me
 
 My name is Youli Zhao, a senior student at oregon state university.<br/>
-Major in computer science and minor in mathematics. Expected graduate in 2021 June.<br/>
-Will enter the graduate career in the fall of 2021.<br>
+Major in computer science and minor in mathematics.<br>
+Expected graduate in 2021 June. Will enter the graduate career in the fall of 2021.<br>
 Provincial Third Prize in the National Mathematical Olympiad Competition in China (2016). <br/>
-Superior Academic Achievement (2020 Spring).<br/>
+Superior Academic Achievement (2020 Spring, 2020 Fall, 2021 Winter).<br/>
 Cat lover / Photographer / OSU Security Club member
 
 
@@ -15,7 +15,7 @@ Cat lover / Photographer / OSU Security Club member
 [My GitLab](https://gitlab.com/Quella-Cold)
 
 ## Skills
-2D Graphics | 3D Modeling | Websites | Test Code | Algorithms | Applications & Game Development 
+2D Graphics | 3D Modeling | Websites | Test Code | Algorithms | Applications & Game Development | AI
 
 
 ## Projects
@@ -28,5 +28,5 @@ Cat lover / Photographer / OSU Security Club member
 ### An online ordering system for pizza that allows users to search and select ingredients to get their own exclusive order.
 [Online Ordering System](https://github.com/QuellaCold/Pizza/tree/main/asm2)
 
-### An artificial intelligence butler that facilitates time management. (Current)
+### An artificial intelligence butler that facilitates time management. (Current, Finished Version Coming Soon...)
 [Infinity scheduler](http://infinityscheduler.com)
