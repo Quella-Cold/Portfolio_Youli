@@ -27,5 +27,5 @@ Cat lover / Photographer / OSU Security Club member
 ### An online ordering system for pizza that allows users to search and select ingredients to get their own exclusive order.
 [Online Ordering System](https://github.com/QuellaCold/Pizza/tree/main/asm2)
 
-### Infinity scheduler (current)
-This is a private project, cannot link with that.
+### An artificial intelligence butler that facilitates time management. (Current)
+[Infinity scheduler](http://infinityscheduler.com)
