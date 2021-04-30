@@ -2,6 +2,7 @@
 
 My name is Youli Zhao, a senior student at oregon state university.<br/>
 Major in computer science and minor in mathematics. Expected graduate in 2021 June.<br/>
+Will enter the graduate career in the fall of 2021.<br>
 Provincial Third Prize in the National Mathematical Olympiad Competition in China (2016). <br/>
 Superior Academic Achievement (2020 Spring).<br/>
 Cat lover / Photographer / OSU Security Club member
