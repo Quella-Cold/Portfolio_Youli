@@ -28,5 +28,5 @@ Cat lover / Photographer / OSU Security Club member
 ### An online ordering system for pizza that allows users to search and select ingredients to get their own exclusive order.
 [Online Ordering System](https://github.com/QuellaCold/Pizza/tree/main/asm2)
 
-### An artificial intelligence butler that facilitates time management. (Current, Finished Version Coming Soon...)
+### An artificial intelligence butler that facilitates time management.(Finished Version Coming Soon...)
 [Infinity scheduler](http://infinityscheduler.com)
